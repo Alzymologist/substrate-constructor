@@ -40,4 +40,4 @@ substrate-crypto-light = { git = "https://github.com/Alzymologist/substrate-cryp
     "sr25519",
 ] }
 substrate_parser = { git = "https://github.com/Alzymologist/substrate-parser", default-features = false }
-thiserror = "1"
+thiserror = "2"
